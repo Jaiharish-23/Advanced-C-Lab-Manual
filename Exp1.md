@@ -48,3 +48,6 @@ Output:
 
 <img width="418" height="232" alt="image" src="https://github.com/user-attachments/assets/37c863bb-7518-4171-b5d4-614eb75d620f" />
 
+Result:
+Thus, the program is verified successfully
+
